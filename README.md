@@ -93,6 +93,3 @@ SHAP was used both for model interpretation and feature selection.
 
 `Machine Learning` • `Ensemble Learning` • `Explainable AI` • `SHAP` • `Feature Selection` • `Hyperparameter Tuning` • `Stacking` • `Ablation Analysis` • `Cross-Dataset Evaluation` • `Data Visualization`
 
-```
-The reported metrics and dataset details above are supported by your coursework report. 
-```
