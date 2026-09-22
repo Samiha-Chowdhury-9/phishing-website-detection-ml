@@ -43,7 +43,7 @@ SHAP-based feature selection reduced the feature space from **81 to 20 features 
 
 ## Repository Structure
 
-```text
+
 phishing-website-detection-ml/
 ├── data/
 │   └── README.md
@@ -54,7 +54,7 @@ phishing-website-detection-ml/
 │   └── tables/
 ├── README.md
 └── requirements.txt
-~~~
+
 
 ## Dataset
 
@@ -80,13 +80,12 @@ Used for cross-dataset evaluation.
 
 Important features identified during the experiments included:
 
-```text
 google_index
 page_rank
 web_traffic
 nb_hyperlinks
 nb_www
-```
+
 
 SHAP was used both for model interpretation and feature selection.
 
