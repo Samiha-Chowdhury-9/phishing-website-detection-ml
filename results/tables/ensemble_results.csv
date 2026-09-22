@@ -1,0 +1,5 @@
+Model,Features,F1_Score,AUC,Accuracy
+XGBoost (81 features),81,0.9665,0.9936,0.9663
+XGBoost (20 features),20,0.9647,0.993,0.9646
+Stacking Ensemble (81 features),81,0.9661,0.9946,0.9659
+Stacking Ensemble (20 features),20,0.9643,0.9932,0.9641

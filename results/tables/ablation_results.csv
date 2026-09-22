@@ -1,0 +1,9 @@
+Experiment,Num_Features,F1_Score,AUC,F1_Drop
+All 81 Features,81,0.9638,0.9931,0.0
+Top 20 Features,20,0.9538,0.9908,0.01
+Top 10 Features,10,0.9464,0.987,0.0174
+Top 5 Features,5,0.9381,0.9775,0.0257
+Remove Top 5,76,0.953,0.9867,0.0108
+Remove Top 10,71,0.9309,0.9796,0.0329
+Remove Top 15,66,0.931,0.9785,0.0328
+Remove Top 20,61,0.9263,0.976,0.0375
